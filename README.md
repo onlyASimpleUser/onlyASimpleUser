@@ -1,4 +1,25 @@
 # welcome to the brand new onlyASi!
-good night.
+**Estado Actual:** Estudiante de Secundaria
 
-[my city](https://en.wikipedia.org/wiki/Lima)
+**Pienso estudiar:** Ingeniería de Sistemas (UNI)
+
+**Lugar natal y dónde vivo:** [Ciudad de los reyes](https://en.wikipedia.org/wiki/Lima)
+
+**Idiomas:** Español, Inglés
+
+**Color preferido:** Anaranjado
+
+**Plato favorito:** Tallarines verdes peruanos
+
+**Instrumentos músicales:**
+- [Siku](https://en.wikipedia.org/wiki/Siku_(instrument)) Malta y Cromática (favorito)
+- Teclado (Primer instrumento tocado)
+- Guitarra (no mucho pero si algo)
+- algunos otros más.
+
+**Cursos / Materias favoritas:**
+- Todo matemática
+- Razonamiento Verbal
+- Cívica
+- Física
+- Química
