@@ -11,7 +11,7 @@
 
 **Plato favorito:** Tallarines verdes peruanos
 
-**Instrumentos músicales:**
+**Instrumentos musicales:**
 - [Siku](https://en.wikipedia.org/wiki/Siku_(instrument)) Malta y Cromática (favorito)
 - Teclado (Primer instrumento tocado)
 - Guitarra (no mucho pero si algo)
