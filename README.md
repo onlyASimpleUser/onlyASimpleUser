@@ -23,3 +23,5 @@
 - Cívica
 - Física
 - Química
+
+**Videojuego favorito:** [AHiT](https://store.steampowered.com/app/253230/A_Hat_in_Time/)
