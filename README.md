@@ -25,3 +25,7 @@
 - Química
 
 **Videojuego favorito:** [AHiT](https://store.steampowered.com/app/253230/A_Hat_in_Time/)
+
+classical music might be the best genre (for me, anyone has freedom of opinion)
+
+Non erosi dezaket euskarazko hiztegia?
